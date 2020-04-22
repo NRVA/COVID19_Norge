@@ -1,13 +1,13 @@
-﻿Fylke;RHF;Befolkning
-Agder;Helse Sør-Øst;307231
-Innlandet;Helse Sør-Øst;371385
-Møre og Romsdal;Helse Midt-Norge;265238
-Nordland;Helse Nord;241235
-Oslo;Helse Sør-Øst;693494
-Rogaland;Helse Vest;479892
-Troms og Finnmark;Helse Nord;243311
-Trøndelag;Helse Midt-Norge;468702
-Vestfold og Telemark;Helse Sør-Øst;419396
-Vestland;Helse Vest;636531
-Viken;Helse Sør-Øst;1241165
-Svalbard;Helse Nord;2379
+﻿Fylke;Fylkesnr;RHF;Befolkning
+Agder;42;Helse Sør-Øst;307231
+Innlandet;34;Helse Sør-Øst;371385
+Møre og Romsdal;15;Helse Midt-Norge;265238
+Nordland;18;Helse Nord;241235
+Oslo;3;Helse Sør-Øst;693494
+Rogaland;11;Helse Vest;479892
+Troms og Finnmark;54;Helse Nord;243311
+Trøndelag;50;Helse Midt-Norge;468702
+Vestfold og Telemark;38;Helse Sør-Øst;419396
+Vestland;46;Helse Vest;636531
+Viken;30;Helse Sør-Øst;1241165
+Svalbard;99;Helse Nord;2379
